@@ -20,7 +20,7 @@ const ReferralChart = () => {
   return (
     <Card className="w-full max-w-3xl mx-auto">
       <CardHeader>
-        <h2 className="text-2xl font-bold text-center">DollarsApp Referral Earnings Potential</h2>
+        <h2 className="text-2xl font-bold text-center">X-App Referral Earnings Potential</h2>
       </CardHeader>
       <CardContent>
         <div className="mb-4 flex items-center gap-4">
